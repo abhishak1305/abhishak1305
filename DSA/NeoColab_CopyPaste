@@ -1,0 +1,12 @@
+right click Inspect the webpage or use Ctrl + Shift + I
+In consol paste the code
+If consol is not allowing for pasting type: allow paste
+
+// This code removes restrictions on copy, cut, paste, and right-click.
+document.addEventListener('contextmenu', (e) => e.stopImmediatePropagation(), true); // Disable right-click
+document.addEventListener('copy', (e) => e.stopImmediatePropagation(), true); // Allow copy
+document.addEventListener('cut', (e) => e.stopImmediatePropagation(), true); // Allow cut
+document.addEventListener('paste', (e) => e.stopImmediatePropagation(), true); // Allow paste
+
+// Allow text selection (if blocked by CSS)
+document.body.style.userSelect = "auto"; // Enable text selection
