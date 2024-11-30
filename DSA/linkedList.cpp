@@ -7,6 +7,13 @@ struct Node {
     Node* next; // Pointer to the next node in the list
 };
 
+void addAtBeg(int item){
+	struct node *n = new node;
+	n->data = item;
+	n->next = start;
+	start = n;
+}
+
 // Function to add a node at the end of the list
 void end(Node*& head, int item) {
     // Create a new node with the given item
@@ -135,6 +142,26 @@ void deleteLastNode(Node*& head) {
     ptr->next = nullptr; // Set the second-to-last node's next pointer to nullptr
     // The last node is deleted when the pointer goes out of scope
 }
+
+void sort(){
+	struct node *n = new node;
+	cout<<"\nEnter data\n";
+	cin>>n->data;
+	if((start == NULL) || (start->data >= n->data)){
+		n->next = start;
+		start = n;
+	}
+	else {
+		struct node *loc = start, *save = NULL;
+		while((loc != NULL) && (loc->data < n->data)){
+			save = loc;
+			loc = loc->next;
+		}
+		n->next = loc;
+		save->next = n;
+	}
+}
+
 
 int main() {
     Node* head = nullptr; // Initialize the head of the list as null (empty list)
