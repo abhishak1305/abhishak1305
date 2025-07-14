@@ -81,8 +81,8 @@
 
 - 📬 Email: [abhishak1305@gmail.com](mailto:abhishak1305@gmail.com)
 - 🌐 Reddit: [@abhishak1305](https://www.reddit.com/user/abhishak1305)
-- 💼 LinkedIn: *(Add your LinkedIn profile here)*
-- 📹 YouTube (optional): *(Add if you plan to share tutorials)*
+- 💼 LinkedIn: 
+- 📹 YouTube 
 
 ---
 
