@@ -1,16 +1,17 @@
-<!-- Animated Header -->
-
 <div align="center">
 
-# 👋 Hi, I'm Abhishak Chaturvedi
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0ea5e9&height=150&section=header" width="100%"/>
 
+# 👋 Hi, I'm Abhishak Chaturvedi
 ### 🚀 Full Stack Developer | Problem Solver | DSA Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;MERN+Stack+Developer;Problem+Solver+%7C+DSA+Enthusiast;Always+learning+new+technologies" />
+<img src="https://avatars.githubusercontent.com/u/152185124?v=4" width="110" alt="Abhishak Chaturvedi"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+scalable+web+applications;MERN+Stack+%2B+Laravel+Developer;Problem+Solver+%7C+DSA+Enthusiast;Always+building%2C+always+learning" alt="Typing SVG"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=abhishak1305&label=Profile%20Views&color=blue&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=abhishak1305&label=Profile%20Views&color=0EA5E9&style=flat" alt="Profile views"/>
 
 </div>
 
@@ -19,154 +20,136 @@
 ## 🚀 About Me
 
 ```cpp
+#include <bits/stdc++.h>
+using namespace std;
+
 class Developer {
 public:
     string name = "Abhishak Chaturvedi";
     string role = "Full Stack Developer";
     string location = "India 🇮🇳";
+    string education = "B.Tech, Computer Science & Engineering";
 
+    vector<string> techStack = {"MERN", "Laravel", "C++"};
     vector<string> interests = {
         "Web Development",
         "Data Structures & Algorithms",
-        "Real-Time Applications",
-        "Backend Development"
+        "Real-Time Systems",
+        "System Design"
     };
 
-    string currentlyLearning = "Advanced Backend Development & System Design";
-
     void sayHi() {
-        cout << "Thanks for visiting my profile! 🚀";
+        cout << "Thanks for stopping by — let's build something! 🚀" << endl;
     }
 };
+
+int main() {
+    Developer abhishak;
+    abhishak.sayHi();
+    return 0;
+}
 ```
 
-* 🎓 B.Tech Computer Science & Engineering student
-* 💻 Passionate about building **full-stack web applications**
-* 🧠 Solved **200+ DSA problems**
-* 🚀 Interested in **scalable systems and real-time applications**
-* 🌱 Currently exploring **advanced backend development and system design**
-* 🤝 Open to learning, collaboration, and exciting development opportunities
+- 🎓 B.Tech Computer Science & Engineering student
+- 💻 Building full-stack web applications end to end — frontend, backend, database, deployment
+- 🧠 Solved **200+ DSA problems** and still going
+- ⚡ Drawn to **scalable systems, real-time features, and clean architecture**
+- 🌱 Currently going deeper on **backend architecture & system design**
+- 🤝 Open to internships, collaborations, and interesting problems to solve
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-
-<p align="left">
-
 <img src="https://skillicons.dev/icons?i=cpp,java,js,php" />
 
-</p>
-
 ### 🎨 Frontend Development
-
-<p align="left">
-
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
 
-</p>
-
 ### ⚙️ Backend Development
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel" />
 
 ### 🗄️ Databases
-
-<p align="left">
-
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
 
-</p>
-
 ### 🧰 Tools & Technologies
-
-<p align="left">
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-
-</p>
 
 ---
 
 ## 🌱 Currently Learning
 
-<p align="left">
-
 <img src="https://skillicons.dev/icons?i=docker,aws,redis" />
 
-</p>
-
-* 🏗️ System Design
-* ⚡ Scalable Backend Architecture
-* ☁️ Cloud & Deployment
-* 🔐 Backend Security
+- 🏗️ System Design
+- ⚡ Scalable Backend Architecture
+- ☁️ Cloud & Deployment
+- 🔐 Backend Security
 
 ---
 
 # 🚀 Featured Projects
 
+*A few things I've built end to end — plan, build, ship.*
+
 ## 💼 getWork — Freelance Marketplace
 
-> A full-stack freelance marketplace designed to connect clients and freelancers with secure workflows and real-time communication.
+> A full-stack freelance marketplace connecting clients and freelancers through secure workflows and real-time communication.
 
-### ✨ Key Features
+- 🔐 JWT authentication with role-based access
+- 💬 Real-time chat powered by Socket.io
+- 📊 Live dashboard backed by MongoDB aggregation pipelines
+- 🔄 Full CRUD across jobs, proposals, and profiles
 
-* 🔐 JWT Authentication
-* 💬 Real-time chat using Socket.io
-* 📊 Live dashboard
-* 🔄 Complete CRUD operations
-* ⚡ MongoDB indexing and aggregation
-* 🚀 Built for scalable workflows
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 
-### 🛠️ Tech Used
-
-`MongoDB` `Express.js` `React` `Node.js` `Socket.io` `Tailwind CSS`
-
-🔗 **Repository:** [View Project](https://github.com/abhishak1305)
+[![Repository](https://img.shields.io/badge/Repository-020617?style=flat-square&logo=github&logoColor=white)](https://github.com/abhishak1305/getWork-a-freelancing-platform) [![Stars](https://img.shields.io/github/stars/abhishak1305/getWork-a-freelancing-platform?style=flat-square&color=0EA5E9&labelColor=020617&label=stars)](https://github.com/abhishak1305/getWork-a-freelancing-platform/stargazers)
 
 ---
 
-## 👥 HobbyHub — Community Platform
+## 👥 Hobby Hub — Community Platform
 
-> A centralized web platform designed to help student communities and hobby clubs manage activities, events, and content.
+> The most-starred project on my profile — a home base where student communities and hobby clubs manage events, members, and content in one place.
 
-### ✨ Key Features
+- 🔐 OTP-based authentication with email verification
+- 🎯 Club and community management tools
+- 📅 Event and content scheduling
+- 🏗️ Clean MVC architecture
 
-* 🔐 OTP-based authentication
-* 📧 Email verification
-* 🎯 Club and community management
-* 📅 Event and content management
-* 🏗️ MVC architecture
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/SMTP-0EA5E9?style=flat-square"/>
 
-### 🛠️ Tech Used
+[![Repository](https://img.shields.io/badge/Repository-020617?style=flat-square&logo=github&logoColor=white)](https://github.com/abhishak1305/Hobby-Hub-community-platform) [![Stars](https://img.shields.io/github/stars/abhishak1305/Hobby-Hub-community-platform?style=flat-square&color=0EA5E9&labelColor=020617&label=stars)](https://github.com/abhishak1305/Hobby-Hub-community-platform/stargazers)
 
-`PHP` `MySQL` `JavaScript` `HTML` `CSS` `SMTP`
+---
 
-🔗 **Repository:** [View Project](https://github.com/abhishak1305)
+## 🧑‍🏫 Mentor Connect — Startup Mentorship Platform
+
+> A Laravel + MongoDB platform that pairs early-stage startups with experienced mentors — containerized with Docker and deployed live.
+
+- 🐘 Laravel backend running on a MongoDB data layer
+- 🐳 Dockerized for consistent dev & production environments
+- ⚡ Vite-powered front-end build pipeline
+- 🌐 Deployed and publicly accessible
+
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+
+[![Repository](https://img.shields.io/badge/Repository-020617?style=flat-square&logo=github&logoColor=white)](https://github.com/abhishak1305/Mentor-Connect) [![Live Demo](https://img.shields.io/badge/Live_Demo-0EA5E9?style=flat-square&logo=render&logoColor=white)](https://mentorconnect-9h5z.onrender.com) [![Stars](https://img.shields.io/github/stars/abhishak1305/Mentor-Connect?style=flat-square&color=0EA5E9&labelColor=020617&label=stars)](https://github.com/abhishak1305/Mentor-Connect/stargazers)
 
 ---
 
 ## 🔎 Missing Person Finder
 
-> A DSA-based project that applies efficient data structures for searching and managing missing person records.
+> A DSA-driven system that applies classic data structures to index and search missing-person records efficiently.
 
-### ✨ Key Features
+- 🌳 Binary Search Tree for ordered record lookup
+- ⚡ Hash Map for near-instant search
+- 📂 File handling for persistent storage
+- 🧠 Built to put core DSA fundamentals into practice
 
-* 🌳 Binary Search Tree implementation
-* ⚡ Hash Map for efficient searching
-* 📂 File handling
-* 🧠 Focused on practical DSA implementation
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Binary_Search_Tree-0EA5E9?style=flat-square"/> <img src="https://img.shields.io/badge/Hash_Map-0EA5E9?style=flat-square"/> <img src="https://img.shields.io/badge/File_Handling-0EA5E9?style=flat-square"/>
 
-### 🛠️ Tech Used
-
-`C++` `BST` `Hash Map` `File Handling`
-
-🔗 **Repository:** [View Project](https://github.com/abhishak1305)
+[![Browse Repositories](https://img.shields.io/badge/Browse_My_Repos-020617?style=flat-square&logo=github&logoColor=white)](https://github.com/abhishak1305?tab=repositories)
 
 ---
 
@@ -174,9 +157,18 @@ public:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhishak1305&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhishak1305&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishak1305&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishak1305&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 🏆 Trophy Case
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=abhishak1305&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 </div>
 
@@ -217,86 +209,64 @@ public:
 
 🥇 **Top 15 Finalist — Encrypted Edge Hackathon**
 
-* Ranked among the **Top 7%** of 200+ participating teams in a university-level cybersecurity hackathon.
+- Ranked in the top 7% of 200+ teams at a university-level cybersecurity hackathon.
 
 🧠 **Competitive Programming**
 
-* Solved **200+ Data Structures & Algorithms problems** across coding platforms.
+- Solved 200+ Data Structures & Algorithms problems across coding platforms.
 
 🎓 **Academic Excellence**
 
-* Achieved an **O Grade (90%+)** in core C/C++ programming and technical training.
+- Achieved an O Grade (90%+) in core C/C++ programming and technical training.
 
 👨‍💼 **Class Representative**
 
-* Representing and coordinating academic communication for **60+ students**.
+- Representing and coordinating academic communication for 60+ students.
 
 ---
 
 # 📈 My Developer Journey
 
 ```text
-2024  ━━━━━━━ 🚀 Started exploring programming and web development
-
-2025  ━━━━━━━━━━━━━ 💻 Built major full-stack projects
-
-2025  ━━━━━━━━━━━━━━━━━ 🔥 Focused on DSA and competitive programming
-
-2026  ━━━━━━━━━━━━━━━━━━━━━ 🚀 Learning advanced backend development
-
-Future ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 🎯 Building scalable real-world systems
+2024    ━━━━━━━━━━━                          🌱  Started exploring programming & web development
+2025    ━━━━━━━━━━━━━━━━━━━━━                💻  Built full-stack projects, went deep on DSA
+2026    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━        🏗️  Learning system design, shipping real products
+Future  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  🎯  Building scalable, production-grade systems
 ```
 
 ---
 
-# 🎯 Currently
+# 🎯 Right Now
 
 ```text
-🔭 Working on:     Full Stack Web Applications
-
-🌱 Learning:       Backend Architecture & System Design
-
-🧠 Practicing:     Data Structures & Algorithms
-
-⚡ Exploring:      Cloud, Docker & Scalable Systems
-
-🎯 Goal:           Become a strong Software Development Engineer
+🔭 Working on:   Leveling up getWork & Hobby Hub, shipping new full-stack builds
+🧠 Practicing:   Data Structures & Algorithms, a little every day
+🤝 Open to:      Internships, freelance work & collaborative projects
+🎯 Goal:         Becoming a strong Software Development Engineer
 ```
 
 ---
 
 # 🏆 Certifications
 
-* 🤖 Introduction to Generative AI — FutureSkills Prime
-* 🧑‍💻 Human Computer Interaction — NPTEL
-* 🛰️ Geodata Processing Using Python — ISRO
-
----
-
-<h2 align="center">🤝 Connect With Me</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/abhishak-chaturvedi">
-    <img src="https://img.shields.io/badge/LinkedIn-Abhishak_Chaturvedi-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="mailto:abhishak1305@gmail.com">
-    <img src="https://img.shields.io/badge/Email-abhishak1305%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/abhishak1305">
-    <img src="https://img.shields.io/badge/GitHub-abhishak1305-black?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+- 🤖 Introduction to Generative AI — FutureSkills Prime
+- 🧑‍💻 Human Computer Interaction — NPTEL
+- 🛰️ Geodata Processing Using Python — ISRO
 
 ---
 
 <div align="center">
 
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishak_Chaturvedi-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishak-chaturvedi)
+[![Email](https://img.shields.io/badge/Email-abhishak1305%40gmail.com-0284C7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishak1305@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-abhishak1305-020617?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhishak1305)
+
 ### 💡 "First, solve the problem. Then, write the code."
 
-### ⭐ If you like my work, consider giving a star to my repositories!
+⭐ If you like my work, consider giving a star to my repositories!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0ea5e9&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0ea5e9&height=120&section=footer" width="100%"/>
 
 </div>
