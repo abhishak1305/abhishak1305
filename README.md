@@ -268,26 +268,20 @@ Future ━━━━━━━━━━━━━━━━━━━━━━━━�
 
 ---
 
-# 🤝 Connect With Me
+<h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/abhishak-chaturvedi">
+    <img src="https://img.shields.io/badge/LinkedIn-Abhishak_Chaturvedi-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-<a href="https://www.linkedin.com/in/abhishak-chaturvedi">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+  <a href="mailto:abhishak1305@gmail.com">
+    <img src="https://img.shields.io/badge/Email-abhishak1305%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-  
-
-<a href="mailto:abhishak1305@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-  
-
-<a href="https://github.com/abhishak1305">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
+  <a href="https://github.com/abhishak1305">
+    <img src="https://img.shields.io/badge/GitHub-abhishak1305-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
