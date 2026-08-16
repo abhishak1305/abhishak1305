@@ -244,17 +244,6 @@ Future  ━━━━━━━━━━━━━━━━━━━━━━━━
 🤝 Open to:      Internships, freelance work & collaborative projects
 🎯 Goal:         Becoming a strong Software Development Engineer
 ```
-
----
-
-# 🏆 Certifications
-
-- 🤖 Introduction to Generative AI — FutureSkills Prime
-- 🧑‍💻 Human Computer Interaction — NPTEL
-- 🛰️ Geodata Processing Using Python — ISRO
-
----
-
 <div align="center">
 
 ## 🤝 Connect With Me
