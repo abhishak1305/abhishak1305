@@ -155,21 +155,19 @@ int main() {
 
 # 📊 GitHub Statistics
 
+<!-- GitHub Statistics -->
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhishak1305&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishak1305&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhishak1305&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishak1305&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </div>
 
 ---
 
 ## 🏆 Trophy Case
 
+<!-- Trophy Case -->
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=abhishak1305&theme=tokyonight&no-frame=true&row=1&column=7" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=abhishak1305&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
 </div>
 
 ---
