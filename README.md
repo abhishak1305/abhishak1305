@@ -162,15 +162,6 @@ int main() {
 </div>
 ---
 
-## 🏆 Trophy Case
-<!-- 📊 GitHub Statistics -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhishak1305&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhishak1305&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</div>
-
----
-
 ## 🔥 GitHub Streak
 
 <div align="center">
