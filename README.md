@@ -1,13 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0ea5e9&height=150&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0284c7,100:0ea5e9&height=200&section=header&text=Abhishak%20Chaturvedi&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%"/>
 
-# 👋 Hi, I'm Abhishak Chaturvedi
-### 🚀 Full Stack Developer | Problem Solver | DSA Enthusiast
-
-<img src="https://avatars.githubusercontent.com/u/152185124?v=4" width="110" alt="Abhishak Chaturvedi"/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+scalable+web+applications;MERN+Stack+%2B+Laravel+Developer;Problem+Solver+%7C+DSA+Enthusiast;Always+building%2C+always+learning" alt="Typing SVG"/>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=%E2%9A%A1+Full+Stack+Developer+%7C+MERN+%2B+Laravel;%F0%9F%A7%A0+Problem+Solver+%7C+200%2B+DSA+Solved;%F0%9F%8F%97%EF%B8%8F+Architecting+Scalable+Web+Systems;%F0%9F%9A%80+Always+Building%2C+Always+Learning" alt="Typing SVG" />
+  </a>
+</p>
 
 <br/>
 
