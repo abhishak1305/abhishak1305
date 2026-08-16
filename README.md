@@ -154,20 +154,19 @@ int main() {
 ---
 
 # 📊 GitHub Statistics
-
-<!-- GitHub Statistics -->
+<!-- 📊 GitHub Statistics -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhishak1305&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishak1305&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://img.shields.io/github/followers/abhishak1305?label=Followers&style=for-the-badge&color=0EA5E9&logo=github" />
+  <img src="https://img.shields.io/github/stars/abhishak1305?style=for-the-badge&color=0EA5E9&logo=github" />
+  <img src="https://img.shields.io/github/search/abhishak1305/abhishak1305?style=for-the-badge&color=0EA5E9" />
 </div>
-
 ---
 
 ## 🏆 Trophy Case
-
-<!-- Trophy Case -->
+<!-- 📊 GitHub Statistics -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhishak1305&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhishak1305&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhishak1305&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </div>
 
 ---
